@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mk:sazankurosu",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/sazankurosu"
+			},
+			"geometry": {
+				"default": "geometry.sazankurosu"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#0b162d",
+				"overlay_color": "#d9d9d9"
+			}
+		}
+	}
+}

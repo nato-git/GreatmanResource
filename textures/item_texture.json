@@ -1,0 +1,60 @@
+{
+  "resource_pack_name": "Petals_of_Reincarnation",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "smartphone": {
+      "textures": "textures/items/smartphone"
+    },
+    "acid_potion": {
+      "textures": "textures/items/acid_potion"
+    },
+    "handcuffs": {
+      "textures": "textures/items/handcuffs"
+    },
+    "skulll": {
+      "textures": "textures/items/skulll"
+    },
+    "gun": {
+      "textures": "textures/items/gun"
+    },
+    "bullet": {
+      "textures": "textures/items/bullet"
+    },
+    "uragiri": {
+      "textures": "textures/items/uragiri"
+    },
+    "tessetu": {
+      "textures": "textures/items/tessetu"
+    },
+    "gaikou": {
+      "textures": "textures/items/gaikou"
+    },
+    "sizai": {
+      "textures": "textures/items/sizai"
+    },
+    "densou": {
+      "textures": "textures/items/densou"
+    },
+    "rakurai": {
+      "textures": "textures/items/rakurai"
+    },
+    "houden": {
+      "textures": "textures/items/houden"
+    },
+    "tensou": {
+      "textures": "textures/items/tensou"
+    },
+    "denjikai": {
+      "textures": "textures/items/denjikai"
+    },
+    "gewehr71": {
+      "textures": "textures/items/gewehr71.png"
+    },
+    "kuwa": {
+      "textures": "textures/items/kuwa.png"
+    },
+    "naihuneort": {
+      "textures": "textures/items/naihuneort.png"
+    }
+  }
+}

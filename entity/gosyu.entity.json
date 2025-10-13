@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mk:gosyu",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/gosyu"
+			},
+			"geometry": {
+				"default": "geometry.gosyu"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#643419",
+				"overlay_color": "#b5a2ad"
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "gun_music": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/gun_sound/gun_sound",
+        "volume": 1.0
+      }
+    ]
+  }
+}

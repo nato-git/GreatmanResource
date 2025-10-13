@@ -1,0 +1,24 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.gewehr71.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [85.09403, 60.24976, -52.45037],
+					"position": [17.96854, 27.86142, -4.81416]
+				}
+			}
+		},
+		"animation.gewehr71.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [13.33621, 0, 0],
+					"position": [0.5, 10.66702, -22.00799],
+					"scale": 0.55
+				}
+			}
+		}
+	}
+}

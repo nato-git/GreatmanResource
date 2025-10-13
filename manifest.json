@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "リィンカーネーションの花弁",
+    "name": "リィンカーネーションの花弁パック",
+    "uuid": "3cd943a9-24a6-4ea9-8fa3-7257c048294a",
+    "version": [1, 0, 1],
+    "min_engine_version": [1, 21, 10]
+  },
+  "modules": [
+    {
+      "description": "リィンカーネーションの花弁のリソースパック",
+      "type": "resources",
+      "uuid": "3f135102-e0bf-4a8e-81dc-675cefdc1e12",
+      "version": [1, 0, 1]
+    }
+  ]
+}

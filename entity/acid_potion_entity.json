@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "nato:acid_potion_entity",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/items/acid_potion"
+      },
+      "geometry": {
+        "default": "geometry.acid_potion"
+      },
+      "render_controllers": ["controller.render.acid_potion"],
+      "animations": {
+        "flying": "animation.actor.billboard"
+      },
+      "scripts": {
+        "animate": ["flying"]
+      }
+    }
+  }
+}
